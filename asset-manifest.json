@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Poartfolio/static/css/main.9fdd7d32.css",
+    "main.js": "/Poartfolio/static/js/main.93a71171.js",
+    "static/media/shivam.png": "/Poartfolio/static/media/shivam.8089ad04d979b6ad2600.png",
+    "index.html": "/Poartfolio/index.html",
+    "main.9fdd7d32.css.map": "/Poartfolio/static/css/main.9fdd7d32.css.map",
+    "main.93a71171.js.map": "/Poartfolio/static/js/main.93a71171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdd7d32.css",
+    "static/js/main.93a71171.js"
+  ]
+}
